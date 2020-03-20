@@ -8,3 +8,5 @@ Description: Yet another model for diagnosing environmental pressures.
 License: GPL2
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/tidyflow/yam
+BugReports: https://github.com/tidyflow/yam/issues
